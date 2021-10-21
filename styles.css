@@ -1,0 +1,31 @@
+h1, h2 {
+    font-family: Tahoma, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+h2 {
+    color: rgb(230, 33, 33);
+}
+
+a {
+    font-size: 25px;
+}
+
+img {
+    width: 550px;
+    height: auto;
+}
+
+.recipes {
+    background-color: rgb(42, 165, 134);
+    text-align: center;
+}
+
+p, li {
+    font-family: "Times New Roman", serif;
+    font-size: 24px;
+}
